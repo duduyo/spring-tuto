@@ -4,4 +4,7 @@ modification après 1er commit, toujours sur master
 4eme modif sur master
 Branche 1, modification
 Branche 1, modification2, a ajouter dans meme commit
+Branche 1, modification2, a ajouter dans meme commit - Après résolution confit
+Nvs commit sur B1
+Nouveau commit B1, append-commit
 
