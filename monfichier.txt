@@ -1,6 +1,7 @@
 init commit - master
 modification après 1er commit, toujours sur master
 3eme modification, toujours sur master
-
 4eme modif sur master
+Branche 1, modification
+Branche 1, modification2, a ajouter dans meme commit
 
