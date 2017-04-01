@@ -8,3 +8,4 @@ Branche 1, modification2, a ajouter dans meme commit - Après résolution confit
 Nvs commit sur B1
 Nouveau commit B1, append-commit
 
+
